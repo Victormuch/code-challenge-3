@@ -1,0 +1,80 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>FLATDANGO</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.css"
+    />
+    <link rel="stylesheet" href="assets/index.css" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+    <!-- navbar -->
+    <div class="heading">
+      <div class="item">
+        <h2 class="ui header">
+          <i class="orange ticket icon"></i>
+          <div class="content">FLATDANGO</div>
+          <div class="sub header" id="subtitle">BUY MOVIE TICKETS</div>
+        </h2>
+      </div>
+    </div>
+
+    <div class="ui centered grid">
+      <div class="four wide column">
+        <div class="list-container">
+          <!-- side menu -->
+          <ul class="ui divided list" id="films">
+            <li class="films2">AVAILABLE MOVIES:</li>
+          </ul>
+          <div class="Nice">
+            <li id="road">Road House</li>
+            <br />
+            <li id="glass">Glass Onion</li>
+            <br />
+            <li id="dead">Evil Dead</li>
+            <br />
+            <li id="kong">Godzilla x Kong</li>
+          </div>
+        </div>
+      </div>
+
+      <!-- poster -->
+      <div class="four wide column">
+        <img id="house" src="/assets/road house.png" alt="MOVIE TITLE"/>
+        <img id="glass" src="/assets/Glass Onion.png" alt="MOVIE TITLE"  style="display: none;">
+        <img id="evil" src="/assets/evil dead rise.png" alt="MOVIE TITLE" style="display: none;">
+        <img id="Godzilla" src="/assets/Godzilla.png" alt="MOVIE TITLE"  style="display: none;">
+      </div>
+
+      <!-- showing info -->
+      <div class="four wide column">
+        <div class="ui cards" id="showing">
+          <div class="card">
+            <div id="title" class="title">Road House</div>
+            <div id="runtime" class="meta">[RUNTIME] minutes</div>
+            <div class="content">
+              <div class="description">
+                <div id="film-info">
+                  A bouncer hired to clean up the baddest honkytonk in a
+                  Missouri town. Armed with a black belt in karate and a degree
+                  in philosophy, Patrick Swayze sets out to tame the Double
+                  Deuce for its owner.
+                </div>
+                <span id="showtime" class="ui label">04:00PM</span>
+                <span id="ticket-num">[27]</span> remaining tickets 3
+              </div>
+            </div>
+            <div class="extra content">
+              <button id="buy-ticket" class="ui orange button">
+                Buy Ticket
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="src/index.js"></script>
+  </body>
+</html>

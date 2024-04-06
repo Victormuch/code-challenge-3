@@ -1,0 +1,77 @@
+body {
+   background-image:url(/assets/placeholder2Image.png.jpg);
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: 1700px;
+}
+
+.heading {
+  background-color: #333333;
+  margin-bottom: 20px;
+  padding: 5px 0px 5px 15px;
+}
+
+.title {
+  background-color: #333333;
+  padding: 5px;
+  color: rgb(149, 124, 124);
+}
+
+#runtime {
+  background-color: #333333;
+  color: #3e8fde;
+  padding: 0px 0px 5px 5px;
+}
+
+.content {
+  color: #3e8fde;
+}
+
+#subtitle {
+  color: white;
+  margin-left: 55px;
+}
+
+#showing {
+  margin-left: 20px;
+}
+
+#films li::before {
+  content: "";
+}
+
+.film {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.sold-out {
+  color: lightgray;
+}
+
+img {
+  max-width: 25vw;
+}
+
+#film-info {
+  padding-bottom: 15px;
+}
+.films2 {
+  font-size: 30px;
+  font-weight: 200px;
+ background-image: linear-gradient(to right ,#686571, #ee4b2b, #00c2cb, #ff7f50, #553c9a);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.Nice{
+ font-size: 17px;
+  font-weight: 600;
+  color: #fdfdfe;
+  text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+}
+#poster{
+  height: 450px;
+  
+}

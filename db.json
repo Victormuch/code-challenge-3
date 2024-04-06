@@ -1,0 +1,44 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "Road house",
+      "runtime": "108",
+      "capacity": 30,
+      "showtime": "04:00PM",
+      "tickets_sold": 27,
+      "description": "A bouncer hired to clean up the baddest honkytonk in a Missouri town. Armed with a black belt in karate and a degree in philosophy, Patrick Swayze sets out to tame the Double Deuce for its owner.",
+      "poster": "https://c7.alamy.com/comp/2WEN29A/road-house-2024-directed-by-doug-liman-and-starring-billy-magnussen-jake-gyllenhaal-and-lukas-gage-an-ex-ufc-middleweight-fighter-ends-up-working-at-a-rowdy-bar-in-the-florida-keys-where-things-are-not-as-they-seem-us-one-sheet-poster-editorial-use-only-credit-bfa-amazon-mgm-studios-2WEN29A.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Glass Onion",
+      "runtime": "118",
+      "capacity": 50,
+      "showtime": "06:45PM",
+      "tickets_sold": 44,
+      "description": "Tech billionaire Miles Bron invites his friends for a getaway on his private Greek island. When someone turns up dead, Detective Benoit Blanc is put on the case.",
+      "poster": "https://c7.alamy.com/comp/2KG3M3M/poster-glass-onion-a-knives-out-mystery-2022-photo-credit-netflix-2KG3M3M.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Evil Dead Rise",
+      "runtime": "93",
+      "capacity": 50,
+      "showtime": "09:30PM",
+      "tickets_sold": 31,
+      "description": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+      "poster": "https://c7.alamy.com/comp/2M6W3KJ/release-date-april-21-2023-title-evil-dead-rise-studio-new-line-cinemas-director-lee-cronin-plot-a-twisted-tale-of-two-estranged-sisters-whose-reunion-is-cut-short-by-the-rise-of-flesh-possessing-demons-thrusting-them-into-a-primal-battle-for-survival-as-they-face-the-most-nightmarish-version-of-family-imaginable-starring-alyssa-sutherland-lily-sullivan-morgan-davies-poster-art-credit-image-new-line-cinemasentertainment-pictures-2M6W3KJ.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Godzilla x Kong",
+      "runtime": "101",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "tickets_sold": 31,
+      "description": " King Kong is in Hollow Earth searching for his lost species. In this way the film is something of a sequel to director Adam Wingard's 2021 Godzilla vs Kong. In it, Kong discovers an enslaved giant ape community near the heart of the Hollow Earth, under the control of the Skar King.",
+      "poster": "https://c7.alamy.com/comp/2WTFT0X/godzilla-x-kong-the-new-empire-2024-directed-by-adam-wingard-and-starring-rebecca-hall-brian-tyree-henry-and-dan-stevens-two-ancient-titans-godzilla-and-kong-clash-in-an-epic-battle-as-humans-unravel-their-intertwined-origins-and-connection-to-skull-islands-mysteries-us-advance-postereditorial-use-only-credit-bfa-warner-bros-2WTFT0X.jpg"
+    }
+  ]
+}
