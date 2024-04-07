@@ -39,6 +39,27 @@
       "tickets_sold": 31,
       "description": " King Kong is in Hollow Earth searching for his lost species. In this way the film is something of a sequel to director Adam Wingard's 2021 Godzilla vs Kong. In it, Kong discovers an enslaved giant ape community near the heart of the Hollow Earth, under the control of the Skar King.",
       "poster": "https://c7.alamy.com/comp/2WTFT0X/godzilla-x-kong-the-new-empire-2024-directed-by-adam-wingard-and-starring-rebecca-hall-brian-tyree-henry-and-dan-stevens-two-ancient-titans-godzilla-and-kong-clash-in-an-epic-battle-as-humans-unravel-their-intertwined-origins-and-connection-to-skull-islands-mysteries-us-advance-postereditorial-use-only-credit-bfa-warner-bros-2WTFT0X.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Damsel",
+      "runtime": "110",
+      "capacity": 40,
+      "showtime": "10:00PM",
+      "tickets_sold": 31,
+      "description": " The first king of Aurea leads a futile attack on a dragon residing in his realm. All the king's men are killed, leaving the king at the dragon's mercy. Centuries later, Elodie, the adolescent daughter of Lord Bayford, receives a proposal from Queen Isabelle of Aurea to marry her son, Prince Henry.",
+      "poster": "https://c7.alamy.com/comp/2WGJ46B/damsel-poster-millie-bobby-brown-2WGJ46B.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Blue Beetle",
+      "runtime": "93",
+      "capacity": 50,
+      "showtime": "10:30PM",
+      "tickets_sold": 31,
+      "description": "An alien scarab chooses Jaime Reyes to be its symbiotic host, bestowing the recent college graduate with a suit of armor that's capable of extraordinary powers, forever changing his destiny",
+      "poster": "https://c7.alamy.com/comp/2R6RR7D/blue-beetle-movie-poster-2R6RR7D.jpg"
     }
+   
   ]
 }

@@ -75,3 +75,15 @@ img {
   height: 450px;
   
 }
+.delete-button {
+  background-color: #644b46; 
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 5px 5px;
+  border-radius: 5px;
+  margin-left: 10px; 
+}
+
+.delete-button:hover {
+  background-color: #685452; 
+}
