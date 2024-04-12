@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 //This function fetches the movie names from the server
 function findMovie() {
-  fetch("http://localhost:3000/films")
+  fetch("https://my-json-server.typicode.com/Victormuch/code-challenge-3/films")
     .then((res) => res.json())
     .then((films1) => {
       films1.forEach((movie) => {
