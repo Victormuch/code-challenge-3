@@ -177,7 +177,7 @@ attempting the bonus deliverables!**
    additional GET request to access the movie's details.
 
 ### link link 
-http://127.0.0.1:5500/ - link link to the website
+https://victormuch.github.io/code-challenge-3/
 
 
 
